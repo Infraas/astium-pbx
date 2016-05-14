@@ -21,7 +21,7 @@ fi
 
 VER="2.5"
 
-REL="D"
+REL="C"
 RELEASE_ARCH=`arch`
 if [ "$RELEASE_ARCH" = "i686" ]
 then
